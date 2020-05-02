@@ -1,35 +1,5 @@
-You can use the [editor on GitHub](https://github.com/benjaminramsden/the500k/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey there,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sorry for the minimalist website. Call us old fashioned, but we value personal connection over digital information sharing. We'd love to share our story with you and tell you about our work - but over a more direct medium. Use the form below to initiate an email conversation, phone call or face to face meet up - or find out more information or how you can pray for us. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benjaminramsden/the500k/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you've already connected with us and are **ready to jump straight to giving**, click on the buttons below (choose from UK, USA, and Europe & the World).
